@@ -39,7 +39,7 @@ Created by Víctor Márquez victormarferiai@gmail.com
 
 # Basic RRT algorithm
 
-![RRT](/readme_sources/RRT.GIF)
+![RRT](/readme_sources/RRT.gif)
 
 # Tests
 
